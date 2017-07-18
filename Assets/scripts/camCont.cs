@@ -68,7 +68,7 @@ public class camCont : MonoBehaviour {
 				i.enabled = false;
 				j.enabled = true;
 			}
-			if (curTime > 96f) {
+			if (curTime > 94.5f) {
 				j.enabled = false;
 				k.enabled = true;
 			}
